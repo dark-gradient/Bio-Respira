@@ -1,0 +1,6 @@
+{
+  "name": "Bio Respira — Smart Air Purifier Dashboard",
+  "description": "Premium intelligent indoor-air management platform for monitoring air quality, controlling purification, and analyzing environmental health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
